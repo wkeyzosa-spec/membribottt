@@ -5,6 +5,6 @@ module.exports = {
     webhook: "https://discordapp.com/api/webhooks/1523819157441871954/n8jazqkSWOtGaFbjd5o8jN2iH-alWvaI7eKpPLHhaYttnj_0sDipwlWmKmllUnXje4Es",
     prefix: ";",
     owners: [""],
-    authLink: "https://discord.com/api/oauth2/authorize?client_id=1519023272635793609&redirect_uri=LINK-AQUI&response_type=code&scope=identify%20guilds.join",
+    authLink: "https://discord.com/api/oauth2/authorize?client_id=1519023272635793609&redirect_uri=https://membribottt.onrender.com&response_type=code&scope=identify%20guilds.join",
 
 }
